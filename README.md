@@ -1,4 +1,6 @@
-# Graphics_final
-Solololo
-Tiffany Zhong
-I plan to implement mesh and shading features.
+# Graphics_final <br />
+## Team Name: Solololo <br />
+## Tiffany Zhong <br />
+## Features
+    -Shading
+    -Mesh   
