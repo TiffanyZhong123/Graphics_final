@@ -1,0 +1,9 @@
+shading phong
+light test 0.5 0.75 1 255 215 0
+ambient 255 215 10
+move 250 100 0
+scale .3 .3 .3
+rotate y 30
+mesh:skyscraper
+save skyscraper.png
+display
