@@ -1,0 +1,19 @@
+frames 60
+basename simple_60
+push
+rotate y 360 spinny
+rotate z 360 spinny
+
+move 500 0 0 x
+move 500 0 0 y
+torus 0 0 0 25 50
+
+vary spinny 0 59 0 1
+vary x 0 14 0 1
+vary x 15 29 0 0
+vary x 30 44 1 0
+vary x 45 59 0 0 
+vary y 0 14 0 0
+vary y 15 29 0 1
+vary y 30 44 0 0
+vary y 45 59 1 0
